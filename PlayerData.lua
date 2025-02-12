@@ -1,9 +1,6 @@
 --[[
     PlayerData Module
     Handles saving and loading player data using DataStoreService.
-    
-    Author: YourName
-    License: MIT (You can modify this)
 ]]--
 
 local DataStoreService = game:GetService("DataStoreService")
